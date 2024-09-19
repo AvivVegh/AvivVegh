@@ -21,4 +21,4 @@ I’m an experienced full-stack developer with over 10 years of hands-on experti
 
 ### Let’s Connect
 
-Feel free to explore my repositories or get in touch via [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/aviv-vegh/)) if you'd like to collaborate or chat about tech!
+Feel free to explore my repositories or get in touch via [LinkedIn](https://www.linkedin.com/in/aviv-vegh/) if you'd like to collaborate or chat about tech!
