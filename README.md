@@ -13,10 +13,11 @@ I’m an experienced full-stack developer with over 10 years of hands-on experti
 
 ### Technologies & Tools
 
-- **Backend**: Node.js (NestJS, Express, Serverless), Python (Flask), Java (Spring Boot), Microservices, REST, GraphQL, AWS, Docker, Kubernetes, Serverless framework
+- **Backend**: Node.js (NestJS, Express, Serverless), Python (Flask), Java (Spring Boot), Microservices, REST, GraphQL
 - **DevOps**: CI/CD, Github Actions, Jenkins, Terraform, Kubernetes
 - **Frontend**: React, JavaScript/TypeScript, HTML/CSS
 - **Mobile**: Android, Swift, Kotlin
+- **infrastructure**: AWS, Postgres, Kafka, Redis, Docker, Kubernetes (K8s), Serverless
 
 
 ### Let’s Connect
