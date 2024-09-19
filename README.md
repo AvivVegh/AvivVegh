@@ -13,7 +13,7 @@ I’m an experienced full-stack developer with over 10 years of hands-on experti
 
 ### Technologies & Tools
 
-- **Backend**: Node.js, Python, Java, Microservices, REST, GraphQL, AWS, Docker, Kubernetes, Serverless
+- **Backend**: Node.js, Python, Java, Microservices, REST, GraphQL, AWS, Docker, Kubernetes, Serverless framework
 - **DevOps**: CI/CD, Github Actions, Jenkins, Terraform, Kubernetes
 - **Frontend**: React, JavaScript/TypeScript, HTML/CSS
 - **Mobile**: Android, Swift, Kotlin
