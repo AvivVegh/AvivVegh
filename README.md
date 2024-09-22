@@ -19,7 +19,10 @@ I’m an experienced full-stack developer with over 10 years of hands-on experti
 - **Mobile**: Android, Swift, Kotlin
 - **infrastructure**: AWS, Postgres, Kafka, Redis, Docker, Kubernetes (K8s), Serverless
 
+### My Articles
+
+Feel free to explore my articles  [Articles]([https://www.linkedin.com/in/aviv-vegh/](https://www.linkedin.com/in/aviv-vegh/recent-activity/articles/) 
 
 ### Let’s Connect
 
-Feel free to explore my repositories or get in touch via [LinkedIn](https://www.linkedin.com/in/aviv-vegh/) if you'd like to collaborate or chat about tech!
+Feel free get in touch via [LinkedIn](https://www.linkedin.com/in/aviv-vegh/) if you'd like to collaborate or chat about tech!
