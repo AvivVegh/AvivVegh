@@ -21,7 +21,7 @@ I’m an experienced full-stack developer with over 10 years of hands-on experti
 
 ### My Articles
 
-Feel free to explore my articles  [Articles]([https://www.linkedin.com/in/aviv-vegh/](https://www.linkedin.com/in/aviv-vegh/recent-activity/articles/)) 
+Feel free to explore my articles  [Articles](https://www.linkedin.com/in/aviv-vegh/recent-activity/articles/)
 
 ### Let’s Connect
 
