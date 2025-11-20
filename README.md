@@ -19,8 +19,9 @@ I’m known for blending deep technical expertise with product thinking, helping
   Experience driving engineering initiatives across multiple product lines including:  
   - AI-driven document verification  
   - Donation and payment platforms  
-  - Learning management systems  
-  - Internal automation and broadcast systems  
+  - Program management systems
+  - Data Transformation platform
+  - Internal automation and broadcast systems
 
 - **Mobile Development & SDKs**  
   Built and scaled production-ready **mobile SDKs** from 0 → 400+ enterprise customers, including CI/CD pipelines, stability monitoring, and client onboarding.
@@ -58,19 +59,24 @@ I’m known for blending deep technical expertise with product thinking, helping
 
 ---
 
-### Notable Work & Projects
-
 - **Fund-A-Scholar (HSF)**  
-  Architected and led backend for a Kickstarter-style donation platform supporting payment flows, orchestration, internal tooling, and AWS-based microservices.
+  Architected and led backend for a Kickstarter-style donation platform supporting payment flows, orchestration layers, microservices, and internal automation systems.
 
-- **Prosper, Broadcast Center, HSF University**  
-  Designed and improved systems for scholar onboarding, high-volume broadcast pipelines, and AI-powered learning experiences.
+- **HSF.net — Program Management Platform (HSF)**  
+  Played a key role in modernizing and expanding HSF’s internal program management platform used by scholars, staff, and program administrators.  
+  Improved workflows around scholar applications, onboarding, case management, backend automation, and cross-service integrations.  
+  Enhanced backend reliability, API performance, and infrastructure-as-code deployments across multiple environments.
 
-- **ALike (Side Project — AI similarity search)**  
-  Built AI-powered product ingestion, vector search, Bedrock multimodal workflows, and merchant catalog automation (Shopify, Awin, CJ, etc.).
+- **Broadcast Center (HSF)**  
+  Designed and Implemented high-volume SMS/email broadcasting.
 
-- **Enterprise-Grade Mobile SDKs**  
-  Led end-to-end development of cross-platform SDKs adopted by 400+ enterprise customers.
+- **Montara — Workforce Intelligence Platform**  
+  Contributed to a high-scale workforce analytics and intelligence platform, focusing on backend microservices, data pipelines, and infrastructure.  
+  Worked on ingestion flows, complex access-control models, and performance-sensitive APIs that supported enterprise workforce planning and organizational insights.
+
+- **Enterprise-Grade Mobile SDKs (Medallia)**  
+  Designed, built, and scaled mobile SDKs from the ground up—used by **400+ enterprise customers** worldwide.  
+  Delivered robust offline/online workflows, real-time event capture, crash-resistant architecture, and cross-platform implementations (Kotlin, Swift, React Native, Cordova, and more).
 
 ---
 
